@@ -4,6 +4,6 @@ public class Gittest {
         System.out.println("commit1");
         System.out.println("hot-fix 输出1");
         System.out.println("github hot-fix 输出1");
-        
+        System.out.println("clone later out1");
     }
 }
